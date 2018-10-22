@@ -1,4 +1,4 @@
-This is a simple conan packaging recipe for [argh!](https://github.com/adishavit/argh/cxxopts).
+This is a simple conan packaging recipe for [argh!](https://github.com/adishavit/argh).
 
 The package is currently available on this public [conan repository](https://bintray.com/jblort/public-jbl). 
 
